@@ -1,0 +1,32 @@
+[
+{
+ "namaobat": "Bodrex",
+ "hargaobat": 20000,
+ "deskripsiobat": "Bodrex merupakan obat untuk meredakan pusing dan migrain",
+ "gambarobat": "https://i.imgur.com/fVaBDMJ.jpeg"
+},
+{
+"namaobat": "Promag",
+"hargaobat": 15000,
+"deskripsiobat": "promag merupakan obat yang digunakan untuk mengurangi gejala-gejala yang berhubungan dengan kelebihan asam lambung dan gastritis",
+ "gambarobat": "https://i.imgur.com/nHPreoo.jpeg"
+},
+{
+"namaobat": "Magtral",
+"hargaobat": 20000,
+"deskripsiobat": "Magtral merupakan obat yang dapat digunakan untuk mengurangi gejala-gejala yang berhubungan dengan kelebihan asam lambung, tukak lambung, dan tukak usus dua belas jari",
+ "gambarobat": "https://i.imgur.com/S21bY0o.jpeg"
+},
+ {
+"namaobat": "Aceon",
+"hargaobat": 20000,
+"deskripsiobat": "Aceon adalah merupakan obat untuk menurunkan darah tinggi",
+ "gambarobat": "https://i.imgur.com/e7LfZ9A.jpeg"
+},
+{
+"namaobat": "Diapet",
+"hargaobat": 7000,
+"deskripsiobat": "Diapet adalah produk herbal yang bermanfaat untuk mengobati diare, mengurangi frekuensi buang air besar",
+"gambarobat": "https://i.imgur.com/EF1EbFk.jpg"
+}
+]
